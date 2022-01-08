@@ -1,6 +1,4 @@
-/*
- CISC 3320 mw3  GuanYong Guan(23732325) HW2
-*/
+
 
 
 #include<iostream>

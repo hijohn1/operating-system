@@ -1,4 +1,4 @@
-//CISC 3320 mw3 GuanYong Guan(23732325) HW4
+
 
 #include<iostream>
 #include<cmath> //use this library to calculate absolute value
